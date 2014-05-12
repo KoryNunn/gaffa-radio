@@ -1,7 +1,7 @@
 {
   "name": "gaffa-radio",
   "author": "Kory Nunn <knunn187@gmail.com>",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "radio.js",
   "repository": {
     "type": "git",
@@ -18,5 +18,12 @@
   "peerDependencies": {
     "gaffa": "^1.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gaffa": "^1.5.6"
+  },
+  "dependencies": {
+    "crel": "^1.1.2",
+    "doc-js": "^0.4.7"
+  }
 }
