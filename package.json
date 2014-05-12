@@ -18,5 +18,12 @@
   "peerDependencies": {
     "gaffa": "^1.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "gaffa": "^1.5.6"
+  },
+  "dependencies": {
+    "crel": "^1.1.2",
+    "doc-js": "^0.4.7"
+  }
 }
